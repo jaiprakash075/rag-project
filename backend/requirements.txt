@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+sentence-transformers
+rank-bm25
+python-dotenv
+langchain-text-splitters
